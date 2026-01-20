@@ -88,23 +88,23 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime 
 
 ### Notice
 
-{{< notice "note" >}}
+{{< notice type="note" title="Note" >}}
 This is a simple note.
 {{< /notice >}}
 
-{{< notice "quote" >}}
+{{< notice type="quote" title="Quote" >}}
 This is a simple quote.
 {{< /notice >}}
 
-{{< notice "tip" >}}
+{{< notice type="tip" title="Tip" >}}
 This is a simple tip.
 {{< /notice >}}
 
-{{< notice "info" >}}
+{{< notice type="info" title="Info" >}}
 This is a simple info.
 {{< /notice >}}
 
-{{< notice "warning" >}}
+{{< notice type="warning" title="Warning" >}}
 This is a simple warning.
 {{< /notice >}}
 
@@ -186,7 +186,7 @@ s = "Python syntax highlighting"
 print s
 ```
 
-```c  { linenos=true }
+```c { linenos=true }
 #include <stdio.h>
 
 int main(void)

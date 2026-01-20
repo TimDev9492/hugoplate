@@ -88,23 +88,23 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime 
 
 ### Hinweis
 
-{{< notice "note" >}}
+{{< notice type="note" title="Notiz" >}}
 Dies ist eine einfache Notiz.
 {{< /notice >}}
 
-{{< notice "quote" >}}
+{{< notice type="quote" title="Zitat" >}}
 Dies ist ein einfaches Zitat.
 {{< /notice >}}
 
-{{< notice "tip" >}}
+{{< notice type="tip" title="Tipp" >}}
 Dies ist ein einfacher Tipp.
 {{< /notice >}}
 
-{{< notice "info" >}}
+{{< notice type="info" title="Info" >}}
 Dies ist eine einfache Info.
 {{< /notice >}}
 
-{{< notice "warning" >}}
+{{< notice type="warning" title="Warnung" >}}
 Dies ist eine einfache Warnung.
 {{< /notice >}}
 
