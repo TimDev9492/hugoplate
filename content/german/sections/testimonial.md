@@ -1,27 +1,27 @@
 ---
 enable: true
-title: "What Users Are Saying About Hugoplate"
-description: "Don't just take our word for it - hear from some of our satisfied users!  Check out some of our testimonials below to see what others are saying about Hugoplate."
+title: "Was Benutzer über Hugoplate sagen"
+description: "Nehmen Sie uns nicht beim Wort - hören Sie von einigen unserer zufriedenen Benutzer! Sehen Sie sich unten einige unserer Testimonials an, um zu sehen, was andere über Hugoplate sagen."
 
 # Testimonials
 testimonials:
   - name: "Marvin McKinney"
-    designation: "Web Designer"
+    designation: "Webdesigner"
     avatar: "/images/avatar-sm.png"
     content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
 
   - name: "Marvin McKinney"
-    designation: "Web Designer"
+    designation: "Webdesigner"
     avatar: "/images/avatar-sm.png"
     content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
 
   - name: "Marvin McKinney"
-    designation: "Web Designer"
+    designation: "Webdesigner"
     avatar: "/images/avatar-sm.png"
     content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
 
   - name: "Marvin McKinney"
-    designation: "Web Designer"
+    designation: "Webdesigner"
     avatar: "/images/avatar-sm.png"
     content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
 

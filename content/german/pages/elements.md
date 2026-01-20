@@ -1,40 +1,40 @@
 ---
-title: "Elements"
+title: "Elemente"
 # meta title
 meta_title: ""
 # meta description
-description: "This is meta description"
+description: "Dies ist eine Meta-Beschreibung"
 # save as draft
 draft: false
 ---
 
 {{< toc >}}
 
-Here is an example of headings. You can use this heading by the following markdown rules. For example: use `#` for heading 1 and use `######` for heading 6.
+Hier ist ein Beispiel für Überschriften. Sie können diese Überschrift mit den folgenden Markdown-Regeln verwenden. Zum Beispiel: Verwenden Sie `#` für Überschrift 1 und `######` für Überschrift 6.
 
-# Heading 1
+# Überschrift 1
 
-## Heading 2
+## Überschrift 2
 
-### Heading 3
+### Überschrift 3
 
-#### Heading 4
+#### Überschrift 4
 
-##### Heading 5
+##### Überschrift 5
 
-###### Heading 6
+###### Überschrift 6
 
 <hr>
 
-### Emphasis
+### Betonung
 
-The emphasis, aka italics, with _asterisks_ or _underscores_.
+Die Betonung, auch Kursivschrift, mit _Sternchen_ oder _Unterstrichen_.
 
-Strong emphasis, aka bold, with **asterisks** or **underscores**.
+Starke Betonung, auch Fettschrift, mit **Sternchen** oder **Unterstrichen**.
 
-The combined emphasis with **asterisks and _underscores_**.
+Die kombinierte Betonung mit **Sternchen und _Unterstrichen_**.
 
-Strike through uses two tildes. ~~Scratch this.~~
+Durchgestrichen verwendet zwei Tilden. ~~Streichen Sie das.~~
 
 <hr>
 
@@ -46,66 +46,66 @@ Strike through uses two tildes. ~~Scratch this.~~
 
 ### Link
 
-[I'm an inline-style link](https://www.google.com)
+[Ich bin ein Inline-Link](https://www.google.com)
 
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+[Ich bin ein Inline-Link mit Titel](https://www.google.com "Googles Startseite")
 
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
+[Ich bin ein relativer Verweis auf eine Repository-Datei](../blob/master/LICENSE)
 
-URLs and URLs in angle brackets will automatically get turned into links.
-<http://www.example.com> or <http://www.example.com> and sometimes
-example.com (but not on Github, for example).
+URLs und URLs in spitzen Klammern werden automatisch in Links umgewandelt.
+<http://www.example.com> oder <http://www.example.com> und manchmal
+example.com (aber nicht auf Github zum Beispiel).
 
-Some text to show that the reference links can follow later.
+Ein Text, um zu zeigen, dass die Referenzlinks später folgen können.
 
 <hr>
 
-### Paragraph
+### Absatz
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus, facilis placeat pariatur! Voluptatem, sed harum pariatur adipisci voluptates voluptatum cumque, porro sint minima similique magni perferendis fuga! Optio vel ipsum excepturi tempore reiciendis id quidem? Vel in, doloribus debitis nesciunt fugit sequi magnam accusantium modi neque quis, vitae velit, pariatur harum autem a! Velit impedit atque maiores animi possimus asperiores natus repellendus excepturi sint architecto eligendi non, omnis nihil. Facilis, doloremque illum. Fugit optio laborum minus debitis natus illo perspiciatis corporis voluptatum rerum laboriosam.
 
 <hr>
 
-### Ordered List
+### Geordnete Liste
 
-1. List item
-2. List item
-3. List item
-4. List item
-5. List item
-
-<hr>
-
-### Unordered List
-
-- List item
-- List item
-- List item
-- List item
-- List item
+1. Listenelement
+2. Listenelement
+3. Listenelement
+4. Listenelement
+5. Listenelement
 
 <hr>
 
-### Notice
+### Ungeordnete Liste
+
+- Listenelement
+- Listenelement
+- Listenelement
+- Listenelement
+- Listenelement
+
+<hr>
+
+### Hinweis
 
 {{< notice "note" >}}
-This is a simple note.
+Dies ist eine einfache Notiz.
 {{< /notice >}}
 
 {{< notice "quote" >}}
-This is a simple quote.
+Dies ist ein einfaches Zitat.
 {{< /notice >}}
 
 {{< notice "tip" >}}
-This is a simple tip.
+Dies ist ein einfacher Tipp.
 {{< /notice >}}
 
 {{< notice "info" >}}
-This is a simple info.
+Dies ist eine einfache Info.
 {{< /notice >}}
 
 {{< notice "warning" >}}
-This is a simple warning.
+Dies ist eine einfache Warnung.
 {{< /notice >}}
 
 <hr>
@@ -115,7 +115,7 @@ This is a simple warning.
 {{< tabs >}}
 {{< tab "Tab 1" >}}
 
-#### Hey There, I am a tab
+#### Hallo, ich bin ein Tab
 
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
@@ -123,7 +123,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 {{< tab "Tab 2" >}}
 
-#### I wanna talk about the assassination attempt
+#### Ich möchte über den Attentatsversuch sprechen
 
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
@@ -133,7 +133,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 {{< tab "Tab 3" >}}
 
-#### We know you’re dealing in stolen ore
+#### Wir wissen, dass Sie mit gestohlenem Erz handeln
 
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
@@ -144,17 +144,9 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 <hr>
 
-### Accordions
+### Akkordeons
 
-{{< accordion "Why should you need to do this?" >}}
-
-- Lorem ipsum dolor sit amet consectetur adipisicing elit.
-- Lorem ipsum dolor sit amet consectetur adipisicing elit.
-- Lorem ipsum dolor sit amet consectetur
-
-{{< /accordion >}}
-
-{{< accordion "How can I adjust Horizontal centering" >}}
+{{< accordion "Warum sollten Sie das tun?" >}}
 
 - Lorem ipsum dolor sit amet consectetur adipisicing elit.
 - Lorem ipsum dolor sit amet consectetur adipisicing elit.
@@ -162,7 +154,15 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 {{< /accordion >}}
 
-{{< accordion "Should you use Negative margin?" >}}
+{{< accordion "Wie kann ich die horizontale Zentrierung anpassen?" >}}
+
+- Lorem ipsum dolor sit amet consectetur adipisicing elit.
+- Lorem ipsum dolor sit amet consectetur adipisicing elit.
+- Lorem ipsum dolor sit amet consectetur
+
+{{< /accordion >}}
+
+{{< accordion "Sollten Sie negativen Rand verwenden?" >}}
 
 - Lorem ipsum dolor sit amet consectetur adipisicing elit.
 - Lorem ipsum dolor sit amet consectetur adipisicing elit.
@@ -172,9 +172,9 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 <hr>
 
-### Code and Syntax Highlighting
+### Code und Syntax-Hervorhebung
 
-This is an `Inline code` sample.
+Dies ist ein `Inline Code` Beispiel.
 
 ```javascript
 var s = "JavaScript syntax highlighting";
@@ -186,7 +186,7 @@ s = "Python syntax highlighting"
 print s
 ```
 
-```c  { linenos=true }
+```c { linenos=true }
 #include <stdio.h>
 
 int main(void)
@@ -207,29 +207,29 @@ flowchart TD
 
 <hr>
 
-### Blockquote
+### Zitatblock
 
-> Did you come here for something in particular or just general Riker-bashing? And blowing into maximum warp speed, you appeared for an instant to be in two places at once.
-
-<hr>
-
-### Tables
-
-| Tables        |      Are      |  Cool |
-| ------------- | :-----------: | ----: |
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      |   centered    |   $12 |
-| zebra stripes |   are neat    |    $1 |
+> Sind Sie wegen etwas Bestimmtem hierhergekommen oder nur zum allgemeinen Riker-Bashing? Und als Sie in maximale Warpgeschwindigkeit gingen, schienen Sie für einen Augenblick an zwei Orten gleichzeitig zu sein.
 
 <hr>
 
-### Image
+### Tabellen
 
-{{< image src="images/image-placeholder.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
+| Tabellen      |     Sind     |  Cool |
+| ------------- | :----------: | ----: |
+| Spalte 3 ist  | rechtsbündig | $1600 |
+| Spalte 2 ist  |  zentriert   |   $12 |
+| Zebrastreifen |  sind toll   |    $1 |
 
 <hr>
 
-### Gallery
+### Bild
+
+{{< image src="images/image-placeholder.png" caption="" alt="Alternativtext" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="Bildtitel"  webp="false" >}}
+
+<hr>
+
+### Galerie
 
 {{< gallery dir="images/gallery" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
 
@@ -241,12 +241,12 @@ flowchart TD
 
 <hr>
 
-### Youtube video
+### Youtube Video
 
 {{< youtube ResipmZmpDU >}}
 
 <hr>
 
-### Custom video
+### Benutzerdefiniertes Video
 
 {{< video src="https://www.w3schools.com/html/mov_bbb.mp4" width="100%" height="auto" autoplay="false" loop="false" muted="false" controls="true" class="rounded-lg" >}}

@@ -1,11 +1,11 @@
 ---
 enable: true
-title: "Ready to build your next project with Hugo?"
+title: "Bereit, Ihr nächstes Projekt mit Hugo zu erstellen?"
 image: "/images/call-to-action.png"
-description: "Experience the future of web development with Hugoplate and Hugo. Build lightning-fast static sites with ease and flexibility."
+description: "Erleben Sie die Zukunft der Webentwicklung mit Hugoplate und Hugo. Erstellen Sie blitzschnelle statische Websites mit Leichtigkeit und Flexibilität."
 button:
   enable: true
-  label: "Fork Deploy and Edit Online 🚀"
+  label: "Forken, deployen und online bearbeiten 🚀"
   link: "https://app.sitepins.com/new/clone?name=Hugoplate&repository=https://github.com/zeon-studio/hugoplate/"
 
 # don't create a separate page

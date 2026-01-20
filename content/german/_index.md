@@ -1,51 +1,51 @@
 ---
 # Banner
 banner:
-  title: "The Ultimate Starter Template You Need To Start Your Hugo Project"
-  content: "Hugoplate is a free starter template built with Hugo and TailwindCSS, providing everything you need to jump-start your Hugo project and save valuable time."
+  title: "Das ultimative Starter-Template für Ihr Hugo-Projekt"
+  content: "Hugoplate ist ein kostenloses Starter-Template, das mit Hugo und TailwindCSS erstellt wurde. Es bietet alles, was Sie brauchen, um Ihr Hugo-Projekt schnell zu starten und wertvolle Zeit zu sparen."
   image: "/images/banner.png"
   button:
     enable: true
-    label: "Fork Deploy and Edit Online 🚀"
+    label: "Forken, deployen und online bearbeiten 🚀"
     link: "https://app.sitepins.com/new/clone?name=Hugoplate&repository=https://github.com/zeon-studio/hugoplate/"
 
 # Features
 features:
-  - title: "What's Included in Hugoplate"
+  - title: "Was in Hugoplate enthalten ist"
     image: "/images/service-1.png"
-    content: "Hugoplate is a comprehensive starter template that includes everything you need to get started with your Hugo project. What's Included in Hugoplate"
+    content: "Hugoplate ist ein umfassendes Starter-Template, das alles enthält, was Sie für den Start Ihres Hugo-Projekts benötigen. Was in Hugoplate enthalten ist"
     bulletpoints:
-      - "10+ Pre-build pages"
+      - "10+ Vorgefertigte Seiten"
       - "95+ Google Pagespeed Score"
-      - "Build with Hugo and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
+      - "Erstellt mit Hugo und TailwindCSS für einfaches und anpassbares Design"
+      - "Vollständig responsiv auf allen Geräten"
+      - "SEO-optimiert für bessere Suchmaschinen-Rankings"
+      - "**Open-Source und kostenlos** für private und kommerzielle Nutzung"
     button:
       enable: false
-      label: "Get Started Now"
+      label: "Jetzt loslegen"
       link: "#"
 
-  - title: "Discover the Key Features Of Hugo"
+  - title: "Entdecken Sie die Hauptfunktionen von Hugo"
     image: "/images/service-2.png"
-    content: "Hugo is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
+    content: "Hugo ist ein All-in-One Web-Framework zum Erstellen schneller, inhaltsorientierter Websites. Es bietet eine Reihe spannender Funktionen für Entwickler und Webseiten-Ersteller. Einige der Hauptmerkmale sind:"
     bulletpoints:
-      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
+      - "Kein JS standardmäßig: Kein JavaScript-Overhead, der Sie verlangsamt."
+      - "Anpassbar: Tailwind, MDX und über 100 weitere Integrationen zur Auswahl."
+      - "UI-agnostisch: Unterstützt React, Preact, Svelte, Vue, Solid, Lit und mehr."
     button:
       enable: true
-      label: "Get Started Now"
+      label: "Jetzt loslegen"
       link: "https://github.com/zeon-studio/hugoplate"
 
-  - title: "The Top Reasons to Choose Hugo for Your Hugo Project"
+  - title: "Die besten Gründe, Hugo für Ihr Hugo-Projekt zu wählen"
     image: "/images/service-3.png"
-    content: "With Hugo, you can build modern and content-focused websites without sacrificing performance or ease of use."
+    content: "Mit Hugo können Sie moderne und inhaltsorientierte Websites erstellen, ohne auf Leistung oder Benutzerfreundlichkeit zu verzichten."
     bulletpoints:
-      - "Instantly load static sites for better user experience and SEO."
-      - "Intuitive syntax and support for popular frameworks make learning and using Hugo a breeze."
-      - "Use any front-end library or framework, or build custom components, for any project size."
-      - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
+      - "Laden Sie statische Websites sofort für eine bessere Benutzererfahrung und SEO."
+      - "Intuitive Syntax und Unterstützung für beliebte Frameworks machen das Lernen und Verwenden von Hugo zum Kinderspiel."
+      - "Verwenden Sie jede Frontend-Bibliothek oder Framework oder erstellen Sie benutzerdefinierte Komponenten für jede Projektgröße."
+      - "Auf modernster Technologie aufgebaut, um Ihre Projekte mit den neuesten Webstandards auf dem neuesten Stand zu halten."
     button:
       enable: false
       label: ""

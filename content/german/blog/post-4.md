@@ -1,12 +1,12 @@
 ---
-title: "How to build an Application with modern Technology"
+title: "Wie man eine Anwendung mit moderner Technologie erstellt"
 meta_title: ""
-description: "this is meta description"
+description: "Dies ist eine Meta-Beschreibung"
 date: 2022-04-04T05:00:00Z
 image: "/images/image-placeholder.png"
-categories: ["Architecture"]
+categories: ["Architektur"]
 author: "John Doe"
-tags: ["silicon", "technology"]
+tags: ["silicon", "technologie"]
 draft: false
 ---
 
@@ -14,7 +14,7 @@ Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam er
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
 
-## Creative Design
+## Kreatives Design
 
 Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
 
