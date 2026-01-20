@@ -12,3 +12,15 @@ search_initial_message: Type something to search..
 search_navigate: to navigate
 search_select: to select
 search_close: to close
+page_not_found: Page not found
+page_not_found_desc: The page you are looking for might have been removed, had its name changed, or is temporarily unavailable.
+back_to_home: Back to home
+full_name: Full Name
+working_mail: Working Mail
+anything_else: Anything else?
+message_placeholder: Message goes here...
+submit: Submit
+previous: Previous
+next: Next
+menu_open: Menu Open
+menu_close: Menu Close

@@ -35,10 +35,10 @@ parent = "Seiten"
 name = "Autoren"
 url = "/authors"
 
-[[main]]
-parent = "Seiten"
-name = "Kategorien"
-url = "/categories"
+# [[main]]
+# parent = "Seiten"
+# name = "Kategorien"
+# url = "/categories"
 
 [[main]]
 parent = "Seiten"

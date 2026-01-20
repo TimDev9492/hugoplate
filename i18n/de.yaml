@@ -12,3 +12,15 @@ search_initial_message: Tippen Sie etwas zum Suchen..
 search_navigate: zum Navigieren
 search_select: zum Auswählen
 search_close: zum Schließen
+page_not_found: Seite nicht gefunden
+page_not_found_desc: Die gesuchte Seite wurde möglicherweise entfernt, umbenannt oder ist vorübergehend nicht verfügbar.
+back_to_home: Zurück zur Startseite
+full_name: Vollständiger Name
+working_mail: E-Mail-Adresse
+anything_else: Sonst noch etwas?
+message_placeholder: Ihre Nachricht hier...
+submit: Senden
+previous: Vorherige
+next: Nächste
+menu_open: Menü öffnen
+menu_close: Menü schließen
