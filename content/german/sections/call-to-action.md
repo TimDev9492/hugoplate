@@ -1,5 +1,5 @@
 ---
-enable: true
+enable: false
 title: "Bereit, Ihr nächstes Projekt mit Hugo zu erstellen?"
 image: "/images/call-to-action.png"
 description: "Erleben Sie die Zukunft der Webentwicklung mit Hugoplate und Hugo. Erstellen Sie blitzschnelle statische Websites mit Leichtigkeit und Flexibilität."

@@ -1,5 +1,5 @@
 ---
-enable: true
+enable: false
 title: "Was Benutzer über Hugoplate sagen"
 description: "Nehmen Sie uns nicht beim Wort - hören Sie von einigen unserer zufriedenen Benutzer! Sehen Sie sich unten einige unserer Testimonials an, um zu sehen, was andere über Hugoplate sagen."
 

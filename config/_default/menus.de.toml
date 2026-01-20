@@ -11,19 +11,19 @@ name = "Über uns"
 url = "/about"
 weight = 2
 
-[[main]]
-name = "Elemente"
-url = "/elements"
-weight = 3
+# [[main]]
+# name = "Elemente"
+# url = "/elements"
+# weight = 3
 
 [[main]]
 weight = 4
 name = "Seiten"
 
-[[main]]
-parent = "Seiten"
-name = "Blog"
-url = "/blog"
+# [[main]]
+# parent = "Seiten"
+# name = "Blog"
+# url = "/blog"
 
 [[main]]
 parent = "Seiten"
@@ -52,10 +52,10 @@ name = "Über uns"
 url = "/about"
 weight = 1
 
-[[footer]]
-name = "Elemente"
-url = "/elements"
-weight = 2
+# [[footer]]
+# name = "Elemente"
+# url = "/elements"
+# weight = 2
 
 [[footer]]
 name = "Datenschutzerklärung"
