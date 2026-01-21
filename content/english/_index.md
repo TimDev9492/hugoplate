@@ -1,13 +1,15 @@
 ---
 # Banner
 banner:
-  title: "The Ultimate Starter Template You Need To Start Your Hugo Project"
-  content: "Hugoplate is a free starter template built with Hugo and TailwindCSS, providing everything you need to jump-start your Hugo project and save valuable time."
+  title: "Cement, uh Vincent!"
+  content: "Book with me, my shop is just insanely awesome and I even offer online appointment booking.
+    Unbelievably cool. Many shops of this size don’t even have their own website with appointment booking — I’m simply
+    better than all of them combined."
   image: "/images/banner.png"
   button:
     enable: true
-    label: "Fork Deploy and Edit Online 🚀"
-    link: "https://app.sitepins.com/new/clone?name=Hugoplate&repository=https://github.com/zeon-studio/hugoplate/"
+    label: "Book an appointment 🗓️"
+    link: "https://booking.timdev.de/"
 
 # Features
 features:
